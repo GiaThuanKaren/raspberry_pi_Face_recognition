@@ -1,0 +1,11 @@
+
+
+keras
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+requests
+psutil
+imageio
